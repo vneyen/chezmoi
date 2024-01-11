@@ -8,7 +8,7 @@ function M.config()
       ensure_installed = {
          'bash', 'c', 'go', 'python',
          'lua', 'query', 'vim', 'vimdoc',
---         'markdown', 'markdown_inline',
+         'markdown', 'markdown_inline',
       },
       auto_install = false,
       sync_install = false,
